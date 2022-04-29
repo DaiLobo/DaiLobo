@@ -1,4 +1,12 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=770CF7&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+I'm+Diana+Rose)](https://git.io/typing-svg)
+
+<div align="center" >
+  <div style="display: inline_block"><br>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiLobo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<h2>:woman_technologist: About me</h2>
+<img width="50%" src="https://github.com/DaiLobo/DaiLobo/blob/main/aboutme.png">
 
 <!--
 **DaiLobo/DaiLobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
