@@ -16,7 +16,7 @@
 console.log("Hello world!");
 const DaiLobo = {
     country: "Brazil",
-    age: 24,
+    age: 25,
     spokenLanguages: ["Portuguese", "English"],
     newYearGoals: "Develop many projects",
     myFavorites: {
