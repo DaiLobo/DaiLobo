@@ -1,7 +1,7 @@
 <div style="display: inline_block" align="center"><br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=770CF7&center=true&vCenter=true&width=400&height=100&lines=Hello%2C+I'm+Diana+Rose)](https://git.io/typing-svg) <img align="right" height="auto" width="230" src="https://media.discordapp.net/attachments/710623907895574529/969751229309796392/daiAvatar-semfundo2.png">
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=770CF7&center=true&vCenter=true&width=400&height=100&lines=Hello%2C+I'm+Diana+Rose)](https://git.io/typing-svg) <img align="right" height="auto" width="230" src="https://github.com/DaiLobo/DaiLobo/assets/47689708/1c6c93a1-854a-43bd-b37b-8489b4da0b79">
+
 </div><br>
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
